@@ -1,4 +1,4 @@
-# Data engineers - Coding challenge
+# Data engineering coding challenge
 
 Ce dépôt contient le sujet du test technique destiné aux candidats data engineering de D2SI.
 
