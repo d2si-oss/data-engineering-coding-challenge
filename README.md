@@ -1,13 +1,13 @@
 # Data engineering coding challenge
 
-Ce dépôt contient le sujet du test technique destiné aux candidats data engineering de D2SI.
+This is a technichal test for data engineering candidates at D2SI.
 
-### Conditions de réalisation
+### Terms
 
-Le test est conçu pour être réalisé en 2 ou 3 heures mais les candidats sont libres d'y consacrer davantage de temps si besoin.
+Candidates should do this test on their own. It is designed to be done in 2 or 3 hours but there is no hard limit.
 
-### Un test à améliorer
+### To be improved
 
-Nous souhaitons améliorer ce test de manière itérative. Les issues et pull requests sont encouragées. Le sujet est versionné en format TeX en plus de la version PDF dans ce but.
+We want to get this test better and better. Issues and pull requests are encouraged. This is why this challenge is commited in both TeX and PDF formats.
 
 Happy coding :-)
